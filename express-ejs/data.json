@@ -3,7 +3,7 @@
     "title": "JavaScript",
     "followers": 9999,
     "description": "Once relegated to the browser as one of the 3 core technologies of the web, JavaScript can now be found almost anywhere you find code. JavaScript developers move fast and push software development forward; they can be as opinionated as the frameworks they use, so let's keep it clean here and make it a place to learn from each other!",
-    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--e4kQ9nis--/c_limit,f_auto,fl_progressive,q_80,w_64/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png",
+    "img": "https://www.w3schools.com/Js/img_javascript_480.jpg",
     "posts": [
       {
         "title": "Mastering JavaScript in 100 Days: A Structured Plan for Proficiency",
@@ -19,7 +19,7 @@
     "title": "React.js",
     "followers": 1200,
     "description": "Official tag for Facebook's React JavaScript library for building user interfaces.",
-    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--1hWNUxma--/c_limit,f_auto,fl_progressive,q_80,w_64/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/26/react-sticker.png",
+    "img": "https://opensource.fb.com/img/projects/react.jpg",
     "posts": [
       {
         "title": "What is Strict Mode in React?",
